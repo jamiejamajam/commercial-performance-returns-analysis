@@ -72,7 +72,7 @@ The project objectives were to:
 - Clean and prepare raw retail transaction data using Python.
 - Create a structured relational database using SQLite.
 - Validate data quality prior to analysis.
-- Perform exploratory and commercial analysis using SQL.
+- Perform exploratory and commercial analysis using Python.
 - Investigate profitability across products, categories and regions.
 - Analyse customer return behaviour and quantify its financial impact.
 - Apply statistical techniques to test business hypotheses and identify key profitability drivers.
