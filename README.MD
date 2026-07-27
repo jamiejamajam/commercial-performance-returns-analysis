@@ -295,13 +295,35 @@ This included:
 - Regional profitability.
 - Identification of loss-making products and regions.
 
-Key category profitability findings:
+### Key category profitability findings:
 
 | Category | Sales | Profit | Profit Margin |
 |----------|------:|------:|--------------:|
 | Technology | **$4.74M** | **$663.78K** | **13.99%** |
 | Office Supplies | **$3.79M** | **$518.60K** | **13.69%** |
 | Furniture | **$4.11M** | **$285.08K** | **6.94%** |
+
+### Sub-category profitability
+
+| Sub-Category | Sales | Profit | Profit Margin |
+|--------------|------:|------:|--------------:|
+| Paper | $241,787.53 | $58,111.65 | 24.03% |
+| Labels | $73,350.28 | $14,988.92 | 20.43% |
+| Accessories | $749,237.02 | $129,626.31 | 17.30% |
+| Copiers | $1,509,436.27 | $258,567.55 | 17.13% |
+| Envelopes | $169,217.49 | $28,849.49 | 17.05% |
+| Binders | $461,869.39 | $72,433.15 | 15.68% |
+| Art | $371,613.15 | $57,829.86 | 15.56% |
+| Fasteners | $89,495.05 | $13,844.29 | 15.47% |
+| Appliances | $1,010,535.53 | $141,562.59 | 14.01% |
+| Phones | $1,706,824.14 | $216,717.01 | 12.70% |
+| Furnishings | $385,155.97 | $46,845.43 | 12.16% |
+| Bookcases | $1,466,572.24 | $161,924.42 | 11.04% |
+| Storage | $1,126,812.97 | $108,416.68 | 9.62% |
+| Chairs | $1,501,681.76 | $140,396.27 | 9.35% |
+| Supplies | $242,811.13 | $22,559.20 | 9.29% |
+| Machines | $779,060.07 | $58,867.87 | 7.56% |
+| Tables | $757,041.92 | -$64,083.39 | -8.46% |
 
 The analysis showed that **Furniture generated substantial revenue but delivered the weakest profit margin**, demonstrating why sales alone should not be used to judge commercial performance.
 
