@@ -361,6 +361,28 @@ Category-level return rates:
 | Technology | **10.07%** |
 | Office Supplies | **8.62%** |
 
+Sub-category return rates:
+
+| Sub-Category | Returned Orders | Total Orders | Return Rate |
+|--------------|----------------:|-------------:|------------:|
+| Fasteners | 300 | 2,481 | **12.09%** |
+| Supplies | 265 | 2,274 | **11.65%** |
+| Bookcases | 263 | 2,285 | **11.51%** |
+| Appliances | 192 | 1,676 | **11.46%** |
+| Machines | 160 | 1,426 | **11.22%** |
+| Envelopes | 255 | 2,272 | **11.22%** |
+| Furnishings | 319 | 2,956 | **10.79%** |
+| Copiers | 228 | 2,124 | **10.73%** |
+| Accessories | 309 | 2,893 | **10.68%** |
+| Art | 467 | 4,394 | **10.63%** |
+| Chairs | 339 | 3,196 | **10.61%** |
+| Binders | 576 | 5,432 | **10.60%** |
+| Paper | 334 | 3,199 | **10.44%** |
+| Tables | 87 | 835 | **10.42%** |
+| Storage | 467 | 4,565 | **10.23%** |
+| Phones | 317 | 3,141 | **10.09%** |
+| Labels | 241 | 2,460 | **9.80%** |
+
 Furniture again emerged as an area requiring attention because it combined weaker profitability, higher average discounting and the highest category-level return rate.
 
 However, an important finding was that **Tables did not have an unusually high return rate**, despite being loss-making. This challenged the assumption that returns were the main cause of poor performance and suggested other factors such as pricing, discounting or sourcing costs may be responsible.
@@ -389,6 +411,16 @@ Returned sales by category:
 | Technology | **$507.01K** |
 | Furniture | **$500.61K** |
 | Office Supplies | **$446.81K** |
+
+Returned financial performance by sub-category (lowest returned profit):
+
+| Sub-Category | Returned Sales | Returned Profit | Profit Margin |
+|--------------|---------------:|----------------:|--------------:|
+| Tables | **$69.82K** | **-$9.15K** | **-13.10%** |
+| Machines | $89.56K | -$4.55K | -5.08% |
+| Fasteners | $10.75K | $1.22K | 11.38% |
+| Labels | $8.74K | $1.74K | 19.86% |
+
 
 Technology generated the highest returned sales value, but this was mainly because it was also the highest-selling category. This was an important analytical distinction: high returned revenue does not automatically indicate poor performance unless interpreted relative to total sales.
 
